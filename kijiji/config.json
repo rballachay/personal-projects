@@ -1,0 +1,10 @@
+{
+    "DB_PATH": "kijiji/data/kijiji_listings.db",
+    "CITIES": ["Edmonton", "Calgary", "Montreal", "Vancouver", "Toronto",
+               "Winnipeg", "Ottawa", "Mississauga", "Brampton", "Hamilton"],
+    "DEFAULT_KEYWORD": "skis",
+    "KIJIJI_GRAPHQL_URL": "https://www.kijiji.ca/anvil/api",
+    "DEFAULT_CATEGORY": 10,
+    "DEFAULT_RADIUS": 50
+  }
+  
