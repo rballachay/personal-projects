@@ -1,2 +1,4 @@
 playwright>=1.40.0
 httpx>=0.24.0
+transformers>=4.39.1
+torch>=2.2.1
